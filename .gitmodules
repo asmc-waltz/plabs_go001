@@ -9,16 +9,16 @@
 	url = https://github.com/STMicroelectronics/meta-st-stm32mp
 [submodule "meta-go001"]
 	path = meta-go001
-	url = git@github.com:opps-kernelpanic/meta-go001.git
+	url = git@github.com:asmc-waltz/meta-go001.git
 [submodule "sources/linux"]
 	path = sources/linux
-	url = git@github.com:opps-kernelpanic/linux.git
+	url = git@github.com:asmc-waltz/linux.git
 [submodule "sources/terminal-ui"]
 	path = sources/terminal-ui
-	url = git@github.com:opps-kernelpanic/terminal-ui.git
+	url = git@github.com:asmc-waltz/terminal-ui.git
 [submodule "sources/Font-Awesome"]
 	path = sources/Font-Awesome
 	url = git@github.com:FortAwesome/Font-Awesome.git
 [submodule "sources/sys-mgr"]
 	path = sources/sys-mgr
-	url = git@github.com:opps-kernelpanic/sys-mgr.git
+	url = git@github.com:asmc-waltz/sys-mgr.git
